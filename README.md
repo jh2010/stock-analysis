@@ -10,13 +10,13 @@ The results of the analysis
 
 
 ###### Stock analysis for 2017 before refactoring
-![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017older.png)
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_older.png)
 
 ###### Stock analysis for 2017 after refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017.png)
 
 ###### Stock analysis for 2018 before refactoring
-![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018older.png)
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_older.png)
 
 ###### Stock analysis for 2018 after refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018.png)
