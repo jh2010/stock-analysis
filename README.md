@@ -8,6 +8,13 @@ The purpose of this project is to help Steve to expand his research about the en
 ### Results
 As we can see from the analysis (See images below), the majority of the stocks did not perform well in 2018 as oposed to 2017.  The only two companies that showed increased returns in 2018 were **ENPH** and **RUN**.  Also, the company **TERP** did not have positive returns for both years.
 
+##### Stock market performance between 2017 and 2018
+###### 2017 Stock analysis
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_table_only)
+
+###### 2018 Stock analysis
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_table_only)
+
 
 
 ##### Execution times before refactoring
