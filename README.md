@@ -18,13 +18,7 @@ As we can see from the analysis (See images below), the majority of the stocks d
 ##### Execution times before and after refactoring
 Even though the outcomes of the analysis (i.e. output of the application) did not change due to refactoring, the execution times were reduced (Please see the images below).
 
-The refactoring in this VBA code was accomplished by adding three [arrays](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays).  The first [array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) is named tickerVolumes(11) and is used to store the calculated ticker volume for each stock. In addition an Integer variable names tickerIndex was created.
-
-The second [array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) is named tickerStartingPrices(11) and is used to store the starting price for each stock at the begining of the year.
-
-The third [array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) is named tickerEndingPrices(11) and is used to store the starting price for each stock at the end of the year.
-
-The tickerIndex [integer](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/integer-data-type) used for iterating over the previous arrays.
+The refactoring in this VBA code was accomplished by adding three [arrays](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) and an Integer variable named tickerIndex. The first [array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) is named tickerVolumes(11) and it is used to store the calculated ticker volume for each stock.  The second [array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) is named tickerStartingPrices(11) and it is used to store the starting price for each stock at the begining of the year. The third [array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) is named tickerEndingPrices(11) and it is used to store the starting price for each stock at the end of the year. The tickerIndex [integer](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/integer-data-type) is used for iterating over the previous arrays.
 
 ###### Stock analysis for 2017 before refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_older.png)
