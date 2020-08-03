@@ -8,7 +8,7 @@ The purpose of this project is to help Steve to expand his research about the en
 ### Results
 The results of the analysis
 
-
+##### Execution times
 ###### Stock analysis for 2017 before refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_older.png)
 
