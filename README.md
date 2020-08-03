@@ -9,8 +9,17 @@ The purpose of this project is to help Steve to expand his research about the en
 The results of the analysis
 
 
-###### Outcomes vs Goals Chart
-![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+###### Stock analysis for 2017 before refactoring
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017older.png)
+
+###### Stock analysis for 2017 after refactoring
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017.png)
+
+###### Stock analysis for 2018 before refactoring
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018older.png)
+
+###### Stock analysis for 2018 after refactoring
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018.png)
 
 ### Summary
 The advantages of refactoring code are increased efficiency and performance.  The disadvantages of refactoring code are increased development time.
