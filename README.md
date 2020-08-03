@@ -14,17 +14,15 @@ As we can see from the analysis (See images below), the majority of the stocks d
 
 ###### 2018 Stock analysis
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_table_only.png)
-
 ---
+##### Execution times before and after refactoring
+Even though the outcomes of the analysis (i.e. output of the application) did not change due to refactoring, the execution times were reduced.
 
-##### Execution times before refactoring
 ###### Stock analysis for 2017 before refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_older.png)
 
-
 ###### Stock analysis for 2018 before refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_older.png)
-
 
 ##### Execution times after refactoring
 ###### Stock analysis for 2017 after refactoring
