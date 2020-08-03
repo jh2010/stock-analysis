@@ -8,15 +8,19 @@ The purpose of this project is to help Steve to expand his research about the en
 ### Results
 The results of the analysis
 
-##### Execution times
+
+##### Execution times before refactoring
 ###### Stock analysis for 2017 before refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_older.png)
 
-###### Stock analysis for 2017 after refactoring
-![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017.png)
 
 ###### Stock analysis for 2018 before refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_older.png)
+
+
+##### Execution times after refactoring
+###### Stock analysis for 2017 after refactoring
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017.png)
 
 ###### Stock analysis for 2018 after refactoring
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018.png)
