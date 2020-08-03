@@ -15,7 +15,7 @@ As we can see from the analysis (See images below), the majority of the stocks d
 ###### 2018 Stock analysis
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_table_only.png)
 
-
+---
 
 ##### Execution times before refactoring
 ###### Stock analysis for 2017 before refactoring
