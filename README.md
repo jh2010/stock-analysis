@@ -36,6 +36,4 @@ By utilizing [arrays](https://docs.microsoft.com/en-us/office/vba/language/conce
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018.png)
 
 ### Summary
-The advantages of refactoring code are increased efficiency and performance.  The disadvantages of refactoring code are increased development time.
-
-After refactoring the original VBA code, the run time was reduced.
+The refactoring of this application was necessary because it increased its performance.  The advantages are increased efficiency due to the reduced memory footprint. After refactoring the original VBA code, the run time was reduced. The only disadvantage of refactoring code is increased development time.
