@@ -36,4 +36,4 @@ By utilizing [arrays](https://docs.microsoft.com/en-us/office/vba/language/conce
 ![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018.png)
 
 ### Summary
-The refactoring of this application was necessary because it increased its performance.  The advantages are increased efficiency due to the reduced memory footprint. After refactoring the original VBA code, the run time was reduced. The only disadvantage of refactoring code is increased development time.
+The refactoring of this application was necessary because it increased its performance.  The advantages are increased efficiency due to the reduced memory footprint. After refactoring the original [VBA](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office) code, the run time was reduced. The only disadvantage of refactoring code is increased development time.
