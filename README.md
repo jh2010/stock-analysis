@@ -10,10 +10,10 @@ As we can see from the analysis (See images below), the majority of the stocks d
 
 ##### Stock market performance between 2017 and 2018
 ###### 2017 Stock analysis
-![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_table_only)
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2017_table_only.png)
 
 ###### 2018 Stock analysis
-![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_table_only)
+![image_name](https://github.com/jh2010/stock-analysis/blob/master/VBA_Challenge_2018_table_only.png)
 
 
 
